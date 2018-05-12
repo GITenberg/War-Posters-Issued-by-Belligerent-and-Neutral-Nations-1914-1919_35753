@@ -1,0 +1,36 @@
+_repo: War-Posters-Issued-by-Belligerent-and-Neutral-Nations-1914-1919_35753
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35753-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Hardie, Martin
+    birthdate: 1875
+    deathdate: 1952
+    gutenberg_agent_id: '37879'
+    url: http://www.gutenberg.org/2009/agents/37879
+  - agent_name: Sabin, Arthur K. (Arthur Knowles)
+    alias: Sabin, Arthur Knowles
+    birthdate: 1879
+    deathdate: 1959
+    gutenberg_agent_id: '37880'
+    url: http://www.gutenberg.org/2009/agents/37880
+description: ''
+gutenberg_issued: '2011-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35753'
+  lccn: '20011518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Posters'
+- !lcc 'D501'
+- !lcc 'NC'
+- !lcsh 'War posters'
+- !lcsh 'Posters'
+title: War Posters Issued by Belligerent and Neutral Nations 1914-1919
+url: http://www.gutenberg.org/ebooks/35753
