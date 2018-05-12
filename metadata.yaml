@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '37880'
     url: http://www.gutenberg.org/2009/agents/37880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35753#War-Posters-Issued-by-Belligerent-and-Neutral-Nations-1914-1919
 gutenberg_issued: '2011-04-02'
 gutenberg_type: Text
 identifiers:
